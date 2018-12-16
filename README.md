@@ -1,4 +1,4 @@
-# gather-and-store-data-using-python-and-sql
+# gather-and-store-airbnb-data-using-python-and-sql
 
 A web scraper for extracting listings data from Airbnb; Store data in SqLite.
 
